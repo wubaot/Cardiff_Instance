@@ -1,0 +1,12 @@
+﻿customer_id,service_time,window_start,window_end,recipes
+0,0.0,0,1440,DEPOT
+1,2.98,0,1440,Pub-Style Shepherd's Pie|German Ranch Steak with Dijon Sauce|Cheesy Buffalo Chicken & Mashed Potato Bake
+2,9.1,720,960,Fried Chicken BLT Sandwiches|Jalapeño Popper Grilled Cheese with Bacon Jam|Soy-Ginger Turkey Meatball Rice Bowls|Sweet Potato & Bacon Quesadillas
+3,9.47,480,720,Fried Chicken BLT Sandwiches|Soy-Ginger Beef Meatball Rice Bowls|Shrimp & Greek Salad Pita Pockets|Crispy Tofu Sesame Lo Mein|One-Pan Cheesy Beef Tortilla Melts|Organic Chicken & Creamy Lemon Zucchini Orzo
+4,4.08,960,1200,Shawarma-Spiced Beef & Rice Bowls|Southwest Bavette Steak Fajita Tacos|Creamy Dill Sirloin Steak|Sweet & Smoky Ranch Steak|Sheet Pan Crunchy Organic Chicken
+5,4.74,480,720,Crispy Parmesan Chicken & Bacon Linguine|Prep & Bake Dijon Pecan Organic Chicken|Gouda-Stuffed Pork Meatloaves|Beef Flautas Supreme|Pan-Seared Chicken & Rosemary Potatoes|Prosciutto-Wrapped Herb-Stuffed Chicken|Melty Double Red Pepper & Bacon Panini
+6,3.45,960,1200,Cheesy Southwest Chicken & Kale Rice|Super-Quick Chicken Spring Rolls & Mediterranean Salad|Tex-Mex Chicken & Queso Rice Bowls|Prep & Bake Cheesy Tomato Ravioli
+7,9.2,720,960,Southwest Shrimp Tacos|Greek Goddess Shrimp & Bulgur Bowls|BBQ Cheddar Burgers with Chipotle Mayo|Harvest Kale & Roasted Brussels Salad|Super-Quick Chicken Spring Rolls & Mediterranean Salad|Sweet Thai Chili Barramundi|Sweet & Spicy Beef Fried Rice
+8,7.44,0,1440,Mexican-Spiced Salmon & Street Corn Rice Bowls|Cheesy Bacon Jam-Stuffed Organic Chicken|Beef Flautas Supreme|Figgy Balsamic Pork|Pan-Seared Sirloin Steak & Rosemary Potatoes|Low-Lift Al Pastor Beef & Brown Rice Bowls
+9,7.44,960,1200,Prep & Bake Dijon Pecan Organic Chicken|Szechuan-Glazed Rib-Eye & Jasmine Rice|Figgy Balsamic Steak|Crispy Kickin' Cayenne Chicken Cutlets
+10,5.73,720,960,Coconut-Crusted Tilapia Sandwiches|Smoky Mustard Steak & Roasted Potatoes|Melty Double Red Pepper & Bacon Panini|Shawarma Beef & Turmeric Rice Bowls

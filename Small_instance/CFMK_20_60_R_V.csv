@@ -1,0 +1,22 @@
+﻿customer_id,service_time,window_start,window_end,recipes
+0,0.0,0,1440,DEPOT
+1,9.76,960,1200,Chicken Milanese & Creamy Pesto Fusilli|Sesame Kimchi Fried Rice
+2,8.28,720,960,Organic Chicken & Creamy Lemon Zucchini Orzo|Jalapeño Popper Grilled Cheese with Bacon Jam|Melty Double Red Pepper & Bacon Panini|Southwest Shrimp Tacos
+3,9.47,0,1440,Fried Chicken BLT Sandwiches|Soy-Ginger Beef Meatball Rice Bowls|Shrimp & Greek Salad Pita Pockets
+4,4.08,480,720,Shawarma-Spiced Beef & Rice Bowls|Southwest Bavette Steak Fajita Tacos|Creamy Dill Sirloin Steak
+5,4.74,480,720,Crispy Parmesan Chicken & Bacon Linguine|Prep & Bake Dijon Pecan Organic Chicken
+6,3.45,960,1200,Cheesy Southwest Chicken & Kale Rice|Super-Quick Chicken Spring Rolls & Mediterranean Salad
+7,9.2,480,720,Southwest Shrimp Tacos|Greek Goddess Shrimp & Bulgur Bowls|BBQ Cheddar Burgers with Chipotle Mayo|Harvest Kale & Roasted Brussels Salad|Super-Quick Chicken Spring Rolls & Mediterranean Salad
+8,7.44,720,960,Mexican-Spiced Salmon & Street Corn Rice Bowls|Cheesy Bacon Jam-Stuffed Organic Chicken|Beef Flautas Supreme
+9,7.44,960,1200,Prep & Bake Dijon Pecan Organic Chicken|Szechuan-Glazed Rib-Eye & Jasmine Rice|Figgy Balsamic Steak
+10,5.73,960,1200,Coconut-Crusted Tilapia Sandwiches|Smoky Mustard Steak & Roasted Potatoes
+11,9.31,0,1440,Mexican-Spiced Chicken & Street Corn Rice Bowls|Silky Sicilian Penne & Sirloin Steak|Ponzu-Glazed Trout & Broccoli Tempura|Organic Chicken & Creamy Lemon Zucchini Orzo
+12,2.96,0,1440,Crispy Parmesan Chicken & Bacon Linguine|Cheesy Bacon Jam-Stuffed Chicken|Harvest Kale Salad with Shrimp|Pepita-Crusted Salmon|Creamy Lobster Pot Pie
+13,5.6,0,1440,One-Pan Cantina Shrimp Fajitas
+14,3.8,720,960,BBQ Pineapple & Bacon Flatbreads|Harvest Kale & Roasted Brussels Salad
+15,8.05,0,1440,Hainanese-Style Roasted Chicken & Rice|Mexican-Spiced Shrimp & Street Corn Rice Bowls|Pear & Walnut-Stuffed Chicken|Crispy Organic Chicken & Bacon Alfredo
+16,8.03,960,1200,Firehouse Cheeseburgers|One-Pot Loaded Three-Bean Chicken Chili
+17,7.1,480,720,BBQ Pineapple & Chicken Flatbreads|Fig & Bacon Chicken Lettuce Wraps
+18,5.59,720,960,Szechuan-Glazed Rib-Eye & Jasmine Rice|One-Pan Cantina Shrimp Fajitas|Harvest Kale Salad with Shrimp
+19,3.49,480,720,Butternut Agnolotti in Brown Butter & Parmesan|Crispy Chicken & Bacon Alfredo|Silky Sicilian Penne with Shrimp|Creamy Dill Ranch Steak
+20,5.5,720,960,"Warm Lentil, Carrot & Feta Salad|Ponzu-Glazed Trout & Broccoli Tempura|Chicken, Sweet Potato & Pepper Quesadillas|Steak with Peppercorn Sauce & Brussels"
