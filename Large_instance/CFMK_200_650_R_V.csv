@@ -1,0 +1,202 @@
+﻿customer_id,service_time,window_start,window_end,recipes
+0,0.0,0,1440,DEPOT
+1,3.87,480,720,"Shawarma-Spiced Chicken & Farro Bowls|Warm Lentil, Carrot & Feta Salad"
+2,7.34,480,720,Pan-Seared Sirloin Steak & Rosemary Potatoes|Ponzu-Glazed Trout & Broccoli Tempura|Smoky Chipotle Turkey Burrito Bowls|Chicken & Greek Salad Pita Pockets|Southwest Steak Fajita Tacos
+3,3.89,960,1200,Prep & Bake Cheesy Tomato Ravioli|Soy-Ginger Beef Meatball Rice Bowls|Low-Lift Al Pastor Beef & Brown Rice Bowls
+4,6.21,720,960,"Southwest Bavette Steak Fajita Tacos|Bacon, Sweet Potato & Pepper Quesadillas|Sweet Soy Chicken, Mushroom & Snow Pea Stir-Fry"
+5,7.58,720,960,Crispy Kickin' Cayenne Chicken Cutlets|Seared Salmon & Lemon-Dijon Sauce|Figgy Balsamic Bavette Steak
+6,3.03,960,1200,Spicy Peruvian Steak|One-Pot Loaded Three-Bean Chicken Chili
+7,7.95,720,960,Chicken Chimichurri Grain Bowls|Butternut Agnolotti in Brown Butter & Parmesan
+8,8.02,480,720,Creamy Dill Sirloin Steak|Cheesy BBQ Chicken Pizzas|Tex-Mex Chicken & Queso Rice Bowls|Mushroom & Spinach Ramen with Beef
+9,4.59,960,1200,"Smashed Black Bean & Beef Tostadas|Turkey, Sweet Potato & Pepper Quesadillas|Beef, Sweet Potato & Pepper Quesadillas|Curried Chicken & Roasted Sweet Potato Jumble"
+10,3.56,960,1200,Cheesy BBQ Chicken Pizzas
+11,6.44,0,1440,One-Pan French Onion & Steak Orzotto|Chicken & Greek Salad Pita Pockets
+12,8.8,960,1200,Pesto Shrimp Salad Lettuce Wraps|Mexican-Spiced Salmon & Street Corn Rice Bowls|Silky Sicilian Penne with Chicken
+13,4.44,720,960,Zucchini & Turkey Pomodoro Penne Bake|Shawarma Dark Meat Chicken & Turmeric Rice Bowls|Zucchini Pomodoro Penne Bake
+14,7.74,720,960,Thyme-Crusted Tilapia & Crème Fraîche Pan Sauce|Cheesy Prosciutto Chicken Rollatini|Rib-Eye Steak & Creamy Mustard Sauce
+15,3.06,720,960,Pan-Seared Chicken & Rosemary Potatoes|Red Curry Lo Mein Stir-Fry & Candied Peanuts|Harvest Kale Salad with Chicken|Crispy Korean-Style BBQ Mushroom Sandwiches|Sesame Kimchi Fried Rice|Dark Meat Chicken Quesadillas with Mango Salsa|Fried Chicken BLT Sandwiches
+16,9.54,960,1200,Zucchini Pomodoro Penne Bake
+17,8.09,720,960,Rib-Eye Steak & Creamy Mustard Sauce|Smoky Mustard Pork Chops & Roasted Potatoes|Sweet Potato & Bacon Quesadillas
+18,2.01,720,960,Organic Chicken & Creamy Lemon Zucchini Orzo|Mushroom & Spinach Ramen with Beef|Lemon Herb Organic Chicken & Couscous
+19,9.75,0,1440,Szechuan Pork Noodle Stir-Fry
+20,6.43,0,1440,Sweet Potato & Pepper Quesadillas|Air Fryer Cajun Chicken & Bacon Sandos
+21,6.46,720,960,Seared Salmon & Tomato-Dill Relish|Chicken with Cherry Pan Sauce|Ponzu-Glazed Trout & Broccoli Tempura|Beef Flautas Supreme|Sweet Thai Chili Barramundi|Hainanese-Style Roasted Chicken & Rice
+22,3.73,0,1440,Szechuan-Glazed Chicken & Jasmine Rice|Silky Sicilian Penne & Sirloin Steak|Thyme-Crusted Salmon & Crème Fraîche Pan Sauce
+23,2.32,0,1440,Salmon with Lemon-Dill Sauce
+24,6.61,720,960,Pub-Style Shepherd's Pie|Sweet Potato & Bacon Quesadillas|Silky Sicilian Penne with Chicken|Sweet Soy Salmon & Chili Roasted Green Bean Bowls|Creamy Dill Organic Chicken
+25,8.21,720,960,Steak with Mushroom Cream Sauce|Za'atar Pistachio-Crusted Sea Bass
+26,4.21,0,1440,Sheet Pan Crunchy Organic Chicken|Silky Sicilian Penne with Bacon
+27,7.84,960,1200,Mexican-Spiced Steak & Street Corn Rice Bowls|One-Pan Cheesy Beef Tortilla Melts|Low-Lift Romesco Chicken & Garlic Herb Orzo|Sweet & Smoky Ranch Steak|Spicy Peruvian Steak
+28,3.16,480,720,Argentinian Chicken|Zucchini Pomodoro Fusilli Bake|Seared Salmon & Kale Salad with Mango|Coconut-Crusted Tilapia Sandwiches|Chicken Sausage Agnolotti in Brown Butter|One-Pan Cheesy Beef Tortilla Melts
+29,3.45,0,1440,Firecracker Meatballs|Mushroom & Spinach Ramen with Chicken
+30,8.64,480,720,Curried Chicken & Roasted Sweet Potato Jumble|Sweet & Smoky Chicken|One-Pan French Onion & Steak Orzotto
+31,2.95,0,1440,Zucchini Pomodoro Fusilli Bake
+32,6.55,720,960,Dark Meat Chicken Quesadillas with Mango Salsa|Smoky Mustard Chicken & Roasted Potatoes|Zucchini & Turkey Pomodoro Penne Bake
+33,5.88,720,960,Harvest Kale Salad with Shrimp|Soy-Ginger Beef Meatball Rice Bowls|Shawarma Beef & Turmeric Rice Bowls|Silky Sicilian Penne with Bacon|Coconut-Crusted Tilapia Sandwiches
+34,3.94,960,1200,Smashed Black Bean & Beef Tostadas
+35,7.34,960,1200,Sweet & Smoky Chicken|Greek Goddess Steak & Bulgur Bowls|Steak with Mushroom Cream Sauce|Smoky Mustard Chicken & Roasted Potatoes
+36,9.42,480,720,"Organic Chicken Milanese & Pesto Penne|Smoky Mustard Steak & Roasted Potatoes|Beef, Sweet Potato & Pepper Quesadillas"
+37,6.65,720,960,Mexican-Spiced Shrimp & Street Corn Rice Bowls|BBQ Flatbreads & Chicken Sausage|Greek Goddess Steak & Bulgur Bowls|Herbed Chicken & Creamy Lemon Zucchini Orzo
+38,7.43,960,1200,Shawarma Beef & Turmeric Rice Bowls|Fried Chicken BLT Sandwiches|Rib-Eye Steak & Creamy Mustard Sauce|Silky Sicilian Penne with Chicken
+39,2.8,960,1200,Prep & Bake Cheesy Tomato Ravioli|Seared Salmon & Tomato-Dill Relish|Sweet & Smoky Chicken|One-Pan French Onion & Steak Orzotto
+40,5.02,720,960,Mexican-Spiced Steak & Street Corn Rice Bowls|Onion Crunch Organic Chicken
+41,2.97,480,720,Lemon Herb Chicken & Artichoke-Celery Salad|One-Pan French Onion Orzotto|Zucchini & Shrimp Pomodoro Penne Bake
+42,6.85,0,1440,Smoky Chipotle Beef Burrito Bowls|Sweet Potato & Pepper Quesadillas|Spicy Peruvian Chicken
+43,8.34,0,1440,Silky Sicilian Penne with Shrimp|Zesty Lemon-Parsley Trout
+44,4.23,0,1440,Silky Sicilian Penne with Shrimp|Butternut Agnolotti in Brown Butter & Parmesan|Savory Paprika Tilapia with Rice & Beans
+45,5.71,960,1200,Cheesy Buffalo Chicken Flatbreads|Chicken Sausage Pomodoro Penne Bake|Turkey Lomo Saltado
+46,6.3,0,1440,Sweet Thai Chili Barramundi|Pepita-Crusted Salmon|Super-Quick Chicken Spring Rolls & Mediterranean Salad
+47,4.68,960,1200,Curried Chicken & Roasted Sweet Potato Jumble
+48,9.16,960,1200,Savory Paprika Tilapia with Rice & Beans|Crispy Korean-Style BBQ Mushroom Sandwiches|Lemon Herb Salmon & Couscous|Mexican-Spiced Steak & Street Corn Rice Bowls|Organic Chicken & Spinach Caprese Salad|Mexican-Spiced Chicken & Street Corn Rice Bowls|Sweet Thai Chili Salmon
+49,3.31,480,720,Tex-Mex Chicken & Queso Rice Bowls|Steak with Mushroom Cream Sauce|Zucchini & Chicken Pomodoro Penne Bake|BBQ Pineapple & Bacon Flatbreads
+50,8.27,720,960,Grass-Fed Rib-Eye Agnolotti|Barramundi with Lemon-Dill Sauce|Seared Salmon & Tomato-Dill Relish
+51,7.37,480,720,Greek Goddess Steak & Bulgur Bowls|BBQ Pineapple & Shrimp Flatbreads|Cheesy Prosciutto Organic Chicken Rollatini|Chicken Milanese & Creamy Pesto Fusilli|Curry Chicken Banh Mi|One-Pan French Onion Orzotto
+52,3.98,480,720,Curried Chicken & Roasted Sweet Potato Jumble|Smoky Mustard Chicken & Roasted Potatoes|Sweet & Smoky Pork Filet|Shawarma-Spiced Chicken & Rice Bowls
+53,7.35,960,1200,"Crispy Parmesan Chicken & Bacon Linguine|Peachy Gochujang Pork Wraps|Smashed Black Bean & Chicken Tostadas|Silky Sicilian Penne with Bacon|Warm Lentil, Carrot & Feta Salad"
+54,6.0,480,720,Low-Lift Al Pastor Beef & Brown Rice Bowls|Spicy Peruvian Steak|Korean BBQ Mushroom & Bacon Sandwiches|Organic Chicken Milanese & Pesto Penne|Chicken Chimichurri Grain Bowls|Southwest Bavette Steak Fajita Tacos|Shawarma Chicken & Turmeric Rice Bowls|Crispy Parmesan Chicken & Bacon Linguine
+55,3.63,960,1200,Coconut-Crusted Tilapia Sandwiches|Curry Chicken Banh Mi
+56,2.52,480,720,Prep & Bake Dijon Pecan Organic Chicken
+57,5.1,960,1200,Savory Mushroom & Spinach Ramen|Chicken Milanese & Creamy Pesto Fusilli
+58,8.33,0,1440,Harvest Kale Salad with Chicken|Organic Chicken Chimichurri Grain Bowls|Pesto Chicken Salad Lettuce Wraps|Grass-Fed Rib-Eye Agnolotti|Seared Salmon & Lemon-Dijon Sauce
+59,9.55,480,720,One-Pan French Onion & Steak Orzotto|Seared Salmon & Kale Salad with Mango|Southwest Steak Fajita Tacos
+60,7.19,0,1440,Mexican-Spiced Chicken & Street Corn Rice Bowls|Spicy Peruvian Bavette Steak|Sweet Soy Salmon & Chili Roasted Green Bean Bowls|Creamy Lobster Pot Pie
+61,6.81,0,1440,Crispy Organic Chicken & Bacon Alfredo|Beef Flautas Supreme
+62,4.32,0,1440,Figgy Balsamic Chicken|Za'atar Feta & Chicken Pita Pockets|Super-Quick Chicken Spring Rolls & Mediterranean Salad|Pub-Style Shepherd's Pie|Silky Sicilian Gluten-Free Fresh Fusilli
+63,8.03,720,960,"Sweet Soy Chicken, Mushroom & Snow Pea Stir-Fry|Swicy Poke-Inspired Rainbow Trout Bowls|Greek Goddess Shrimp & Bulgur Bowls|Tex-Mex Chicken & Queso Rice Bowls"
+64,9.05,0,1440,Mushroom & Spinach Ramen with Turkey|Seared Salmon & Kale Salad with Mango
+65,5.51,480,720,Smashed Black Bean & Beef Tostadas|Szechuan-Glazed Chicken & Jasmine Rice|Southwest Steak Fajita Tacos
+66,7.84,960,1200,Mexican-Spiced Chicken & Street Corn Rice Bowls|Sweet Potato & Pepper Quesadillas|Sweet Potato & Bacon Quesadillas
+67,5.51,960,1200,"Zucchini Pomodoro Fusilli Bake|BBQ Pineapple Flatbreads|Warm Lentil, Carrot & Feta Salad"
+68,2.08,480,720,Chicken with Cherry Pan Sauce|Fried Chicken BLT Sandwiches|Figgy Balsamic Chicken
+69,5.61,0,1440,Creamy Chicken Pot Pie|Ponzu-Glazed Trout & Broccoli Tempura
+70,7.16,960,1200,Smoky Mustard Chicken & Roasted Potatoes|Steak Agnolotti in Brown Butter Sauce|Baked Old Bay Scallop & Shrimp Gratins
+71,7.2,960,1200,Pan-Seared Chicken & Rosemary Potatoes|Air Fryer Swicy Cajun Chicken Sandwiches|Argentinian Chicken
+72,3.8,720,960,Cheesy Southwest Chicken & Kale Rice|Cheesy Buffalo Chicken Flatbreads|One-Pan French Onion & Trout Orzotto
+73,6.05,480,720,Southwest Shrimp Tacos|Chicken & Greek Salad Pita Pockets
+74,4.4,0,1440,Air Fryer Cajun Organic Chicken Sandos
+75,9.11,480,720,Shawarma-Spiced Beef & Rice Bowls|Fried Chicken BLT Sandwiches|Cheesy Prosciutto Organic Chicken Rollatini|Crispy Korean-Style BBQ Mushroom Sandwiches
+76,3.97,960,1200,BBQ Pineapple & Shrimp Flatbreads
+77,6.05,480,720,Cheesy Prosciutto Organic Chicken Rollatini
+78,7.7,720,960,Jalapeño Popper Grilled Cheese with Bacon Jam
+79,9.88,960,1200,Chicken & Edamame Stir-Fry
+80,2.96,0,1440,Barramundi with Lemon-Dill Sauce
+81,2.64,0,1440,Pear & Walnut-Stuffed Chicken|Low-Lift Al Pastor Beef & Brown Rice Bowls|Chicken Milanese & Creamy Pesto Fusilli|Firehouse Cheeseburgers
+82,3.4,720,960,Sirloin Steak Salad & Red Pepper Dressing|Zucchini & Turkey Pomodoro Penne Bake|Silky Sicilian Gluten-Free Fresh Fusilli|Silky Sicilian Penne with Shrimp
+83,4.34,480,720,Dark Meat Chicken Quesadillas with Mango Salsa
+84,2.5,960,1200,Zucchini Pomodoro Penne Bake|Greek Goddess Steak & Bulgur Bowls|Curried Chicken & Roasted Sweet Potato Jumble|Mushroom & Spinach Ramen with Steak
+85,8.05,480,720,One-Pan French Onion & Steak Orzotto
+86,4.62,0,1440,Grass-Fed Rib-Eye Agnolotti|Cheesy Buffalo Chicken Flatbreads|Beef Flautas Supreme|Smoky Mustard Steak & Roasted Potatoes|Organic Chicken & Creamy Lemon Zucchini Orzo
+87,6.99,720,960,Shawarma Beef & Turmeric Rice Bowls|Savory Mushroom & Spinach Ramen
+88,8.49,960,1200,Cheesy Bacon Jam-Stuffed Chicken|Grass-Fed Rib-Eye Agnolotti|BBQ Pineapple & Shrimp Flatbreads|Cheesy Prosciutto Chicken Rollatini
+89,8.07,0,1440,Argentinian Bavette Steak|Southwest Shrimp Tacos|Cheesy Bacon Jam-Stuffed Organic Chicken|Fried Chicken BLT Sandwiches
+90,7.07,960,1200,Silky Sicilian Penne with Shrimp|BBQ Cheddar Turkeyburgers & Chipotle Mayo|Super-Quick Chicken Spring Rolls & Mediterranean Salad|BBQ Pineapple & Shrimp Flatbreads|Shawarma-Spiced Beef & Rice Bowls
+91,8.65,960,1200,Figgy Balsamic Chicken
+92,8.57,480,720,"Sweet & Spicy Beef Fried Rice|Turkey, Sweet Potato & Pepper Quesadillas|Cheesy BBQ Chicken Pizzas|Sweet Potato & Steak Quesadillas"
+93,2.65,480,720,Baked Old Bay Scallop & Shrimp Gratins|Shawarma Turkey & Turmeric Rice Bowls|One-Pan French Onion & Steak Orzotto|Low-Lift Romesco Chicken & Garlic Herb Orzo|Smoky Chipotle Beef Burrito Bowls
+94,4.02,720,960,Chicken & Greek Salad Pita Pockets
+95,3.27,960,1200,Herbed Chicken & Creamy Lemon Zucchini Orzo|Mexican-Spiced Steak & Street Corn Rice Bowls|Salmon with Lemon-Dill Sauce
+96,8.02,0,1440,Pub-Style Shepherd's Pie|Pan-Seared Chicken & Rosemary Potatoes|Barramundi with Lemon-Dill Sauce|Southwest Chicken Tacos|Steak with Mushroom Cream Sauce
+97,8.28,480,720,Shawarma Dark Meat Chicken & Turmeric Rice Bowls|Szechuan-Glazed Rib-Eye & Jasmine Rice|Argentinian Bavette Steak
+98,9.89,960,1200,Sweet Thai Chili Barramundi|Mushroom & Spinach Ramen with Beef|Herbed Chicken & Creamy Lemon Zucchini Orzo
+99,4.14,960,1200,"Silky Sicilian Penne with Chicken Sausage|Cheesy Buffalo Chicken Flatbreads|Turkey, Sweet Potato & Pepper Quesadillas|Mushroom & Spinach Ramen with Chicken|Figgy Balsamic Chicken|Mexican-Spiced Steak & Street Corn Rice Bowls|Silky Sicilian Penne|Savory Mushroom & Spinach Ramen"
+100,7.72,720,960,Mexican-Spiced Salmon & Street Corn Rice Bowls|Sweet Thai Chili Barramundi
+101,9.55,0,1440,Lemon Herb Organic Chicken & Couscous|Firehouse Cheeseburgers|Dijon Dill Chicken|Sweet Soy Salmon & Chili Roasted Green Bean Bowls
+102,8.94,720,960,Onion Crunch Chicken
+103,5.11,480,720,BBQ Pineapple & Shrimp Flatbreads|Chicken Milanese & Creamy Pesto Fusilli|Creamy Chicken Pot Pie|Red Curry Lo Mein Stir-Fry & Candied Peanuts|Firecracker Meatballs
+104,7.76,0,1440,Harvest Kale Salad with Shrimp|Air Fryer Cajun Chicken & Bacon Sandos|BBQ Cheddar Turkeyburgers & Chipotle Mayo|Steak with Mushroom Cream Sauce|Southwest Shrimp Tacos|Argentinian Chicken|Mushroom & Spinach Ramen with Steak|Baked Old Bay Scallop & Shrimp Gratins
+105,3.04,720,960,Spicy Peruvian Steak
+106,8.5,480,720,Sweet & Smoky Chicken|Greek Goddess Shrimp & Bulgur Bowls
+107,3.88,480,720,Harvest Kale Salad with Shrimp|Savory Mushroom & Spinach Ramen
+108,3.12,960,1200,"One-Pan French Onion & Steak Orzotto|Beef, Sweet Potato & Pepper Quesadillas|Zucchini Pomodoro Fusilli Bake"
+109,6.76,720,960,Sweet Thai Chili Barramundi|Harvest Kale Salad with Bacon
+110,2.48,0,1440,Shrimp & Greek Salad Pita Pockets|BBQ Cheddar Burgers with Chipotle Mayo
+111,4.83,480,720,"Salmon with Lemon-Dill Sauce|Harvest Kale & Roasted Brussels Salad|Pub-Style Turkey Shepherd's Pie|Chicken, Sweet Potato & Pepper Quesadillas"
+112,2.14,480,720,Figgy Balsamic Bavette Steak|BBQ Pineapple & Bacon Flatbreads|Zucchini Pomodoro Fusilli Bake
+113,8.71,960,1200,Turkey Lomo Saltado|Soy-Ginger Turkey Meatball Rice Bowls|Shawarma Chicken & Turmeric Rice Bowls|BBQ Cheddar Turkeyburgers & Chipotle Mayo|Seared Salmon & Kale Salad with Mango|Creamy Chicken Pot Pie|Figgy Balsamic Bavette Steak
+114,4.48,720,960,Sweet Soy Salmon & Chili Roasted Green Bean Bowls|Mushroom & Spinach Ramen with Steak
+115,4.25,0,1440,Silky Sicilian Penne with Bacon|Pan-Seared Sirloin Steak & Rosemary Potatoes|Barramundi with Lemon-Dill Sauce
+116,9.62,0,1440,Mexican-Spiced Salmon & Street Corn Rice Bowls|BBQ Pineapple Flatbreads|Argentinian Chicken|Crispy Chicken & Bacon Alfredo|Sheet Pan Crunchy Organic Chicken
+117,7.72,0,1440,Sesame Kimchi Fried Rice|One-Pan Cheesy Beef Tortilla Melts|Mushroom & Spinach Ramen with Beef
+118,5.58,960,1200,Silky Sicilian Gluten-Free Fresh Fusilli|Sweet & Tangy Tempura Chicken Sandos
+119,6.22,480,720,Spicy Peruvian Chicken|Low-Lift Romesco Chicken & Garlic Herb Orzo
+120,8.28,480,720,Zucchini & Beef Pomodoro Penne Bake|Pub-Style Turkey Shepherd's Pie
+121,5.71,0,1440,Smoky Chipotle Beef Burrito Bowls|Sweet & Smoky Pork Filet|Lemon Herb Organic Chicken & Couscous
+122,3.12,960,1200,Sweet & Smoky Pork Filet|Steak with Peppercorn Sauce & Brussels
+123,2.41,720,960,Smashed Black Bean & Beef Tostadas|Harvest Kale Salad with Shrimp|Grass-Fed Rib-Eye Agnolotti
+124,4.98,0,1440,Szechuan-Glazed Chicken & Jasmine Rice|Silky Sicilian Penne with Chicken|Spicy Peruvian Steak|Sweet & Smoky Chicken|Shawarma-Spiced Beef & Rice Bowls
+125,3.23,720,960,Seared Salmon & Kale Salad with Mango|Mushroom & Spinach Ramen with Steak
+126,7.25,480,720,Beef Flautas Supreme|Zesty Lemon-Parsley Trout
+127,3.75,0,1440,Onion Crunch Organic Chicken|Mushroom & Spinach Ramen with Chicken
+128,4.48,960,1200,"Warm Lentil, Carrot & Feta Salad|Smashed Black Bean Tostadas|BBQ Cheddar Burgers with Chipotle Mayo|Paprika Chicken with Sweet Potato Jumble|Figgy Balsamic Pork|Swicy Poke-Inspired Rainbow Trout Bowls|Ponzu-Glazed Trout & Broccoli Tempura"
+129,9.42,0,1440,Thyme-Crusted Tilapia & Crème Fraîche Pan Sauce|Pan-Seared Chicken & Rosemary Potatoes|One-Pan French Onion & Trout Orzotto|Szechuan-Glazed Chicken & Jasmine Rice|Jalapeño Popper Grilled Cheese with Bacon Jam|Figgy Balsamic Bavette Steak
+130,9.23,720,960,Pan-Seared Sirloin Steak & Rosemary Potatoes|Air Fryer Cajun Chicken & Bacon Sandos|Cheesy Buffalo Chicken Flatbreads|Mushroom & Spinach Ramen with Beef|Smashed Black Bean & Beef Tostadas|Dark Meat Chicken Quesadillas with Mango Salsa|Harvest Kale & Roasted Brussels Salad
+131,3.79,960,1200,Baked Old Bay Scallop & Shrimp Gratins|BBQ Pineapple & Shrimp Flatbreads|Zesty Lemon-Parsley Trout|Steak & Cheddar-Swiss Fondue Board|Swicy Poke-Inspired Rainbow Trout Bowls|Salmon with Lemon-Dill Sauce
+132,5.24,960,1200,Shawarma Dark Meat Chicken & Turmeric Rice Bowls|Cheesy Bacon Jam-Stuffed Chicken|Crispy Organic Chicken & Bacon Alfredo|Silky Sicilian Penne
+133,9.57,960,1200,Turkey Lomo Saltado
+134,7.72,960,1200,Cheesy BBQ Chicken Pizzas|Silky Sicilian Penne with Chicken|Shawarma-Spiced Chicken & Rice Bowls
+135,7.91,960,1200,Mexican-Spiced Shrimp & Street Corn Rice Bowls|Crispy Kickin' Cayenne Chicken Cutlets|Grass-Fed Rib-Eye Agnolotti|Mexican-Spiced Steak & Street Corn Rice Bowls|Seared Salmon & Kale Salad with Mango
+136,8.43,0,1440,"Szechuan-Glazed Chicken & Jasmine Rice|Harvest Kale Salad with Bacon|Beef, Sweet Potato & Pepper Quesadillas|Silky Sicilian Penne with Chicken"
+137,8.85,960,1200,Greek Goddess Shrimp & Bulgur Bowls|Argentinian Chicken|Silky Sicilian Penne with Chicken|Argentinian Bavette Steak
+138,6.8,720,960,Peachy Gochujang Chicken Wraps
+139,5.24,0,1440,Smashed Black Bean Tostadas|Za'atar Pistachio-Crusted Sea Bass|Crispy Parmesan Chicken & Bacon Linguine
+140,2.08,480,720,Thyme-Crusted Salmon & Crème Fraîche Pan Sauce|Sweet Thai Chili Salmon
+141,6.71,0,1440,Pan-Seared Chicken & Rosemary Potatoes
+142,8.54,480,720,Prep & Bake Dijon Pecan Organic Chicken|Zucchini Pomodoro Penne Bake|Steak with Peppercorn Sauce & Brussels|Curried Chicken & Roasted Sweet Potato Jumble
+143,9.8,960,1200,Argentinian Chicken|Szechuan-Glazed Rib-Eye & Jasmine Rice|Cheesy BBQ Chicken Pizzas
+144,7.52,960,1200,Cheesy Southwest Chicken & Kale Rice|Greek Goddess Shrimp & Bulgur Bowls|Spicy Peruvian Chicken|Sesame Kimchi Fried Rice
+145,7.11,960,1200,Mexican-Spiced Shrimp & Street Corn Rice Bowls|Salmon with Lemon-Dill Sauce|Firecracker Meatballs
+146,9.35,0,1440,Pub-Style Shepherd's Pie|Silky Sicilian Penne & Sirloin Steak|Spicy Peruvian Bavette Steak
+147,8.2,480,720,Crispy Kickin' Cayenne Chicken Cutlets|BBQ Flatbreads & Chicken Sausage|One-Pan Cheesy Beef Tortilla Melts|Baked Old Bay Scallop & Shrimp Gratins|Crispy Organic Chicken & Bacon Alfredo|Fried Chicken BLT Sandwiches
+148,6.85,960,1200,Sweet & Smoky Ranch Steak|Southwest Chicken Tacos|Sweet Thai Chili Salmon|Szechuan-Glazed Rib-Eye & Jasmine Rice|Za'atar Pistachio-Crusted Sea Bass
+149,7.04,480,720,Thyme-Crusted Salmon & Crème Fraîche Pan Sauce
+150,9.87,480,720,Shawarma-Spiced Chicken & Rice Bowls|Sweet Thai Chili Barramundi|One-Pan French Onion Orzotto
+151,7.72,0,1440,Swicy Poke-Inspired Rainbow Trout Bowls|Cheesy Southwest Chicken & Kale Rice|Air Fryer Cajun Organic Chicken Sandos|Chicken & Greek Salad Pita Pockets|Southwest Steak Fajita Tacos
+152,3.58,480,720,Smashed Black Bean Tostadas|Sweet & Spicy Beef Fried Rice|Chicken Sausage Agnolotti in Brown Butter|Crispy Chicken & Bacon Alfredo|Walnut Pesto Scallops & Purple Sweet Potato Puree|Steak Agnolotti in Brown Butter Sauce
+153,6.7,0,1440,Mushroom & Spinach Ramen with Turkey|Prosciutto-Wrapped Herb-Stuffed Chicken|Savory Paprika Tilapia with Rice & Beans|BBQ Pineapple & Bacon Flatbreads
+154,7.34,960,1200,"Warm Lentil, Carrot & Feta Salad|Turkey, Sweet Potato & Pepper Quesadillas"
+155,3.15,960,1200,Rib-Eye Steak & Creamy Mustard Sauce|Dijon Dill Chicken|Air Fryer Swicy Cajun Chicken Sandwiches
+156,9.21,480,720,Onion Crunch Organic Chicken
+157,4.04,0,1440,Chicken Chimichurri Grain Bowls|BBQ Cheddar Burgers with Chipotle Mayo
+158,3.69,720,960,Crispy Parmesan Chicken & Bacon Linguine|Argentinian Bavette Steak|Mexican-Spiced Salmon & Street Corn Rice Bowls|Shawarma-Spiced Chicken & Rice Bowls
+159,5.21,720,960,Cheesy Southwest Chicken & Kale Rice|Organic Chicken Milanese & Pesto Penne
+160,6.22,480,720,Lemon Herb Organic Chicken & Couscous|Mexican-Spiced Chicken & Street Corn Rice Bowls|One-Pan Cantina Shrimp Fajitas|Sweet Soy Salmon & Chili Roasted Green Bean Bowls|Harvest Kale Salad with Chicken|Creamy Dill Sirloin Steak|Pan-Seared Sirloin Steak & Rosemary Potatoes
+161,3.59,0,1440,Chicken Sausage Pomodoro Penne Bake|Mushroom & Spinach Ramen with Turkey|Air Fryer Cajun Chicken & Bacon Sandos|Paprika Chicken with Sweet Potato Jumble|Prep & Bake Cheesy Tomato Ravioli|Onion Crunch Organic Chicken|Silky Sicilian Gluten-Free Fresh Fusilli
+162,9.2,0,1440,BBQ Pineapple Flatbreads|Firecracker Meatballs|Southwest Shrimp Tacos
+163,4.76,720,960,Sweet Soy Salmon & Chili Roasted Green Bean Bowls|Ponzu-Glazed Trout & Broccoli Tempura|Pesto Chicken Salad Lettuce Wraps|Pesto Shrimp Salad Lettuce Wraps
+164,2.38,960,1200,Crispy Parmesan Chicken & Bacon Linguine|Zucchini & Turkey Pomodoro Penne Bake|Smashed Black Bean & Beef Tostadas|Rainbow Trout Agnolotti
+165,5.22,720,960,Turkey Lomo Saltado|Crispy Tofu Sesame Lo Mein
+166,6.84,720,960,Silky Sicilian Gluten-Free Fresh Fusilli|Ponzu-Glazed Trout & Broccoli Tempura
+167,8.99,720,960,Coconut-Crusted Tilapia Sandwiches|Chicken Sausage Pomodoro Penne Bake
+168,8.37,720,960,Seared Salmon & Lemon-Dijon Sauce|Shawarma Dark Meat Chicken & Turmeric Rice Bowls
+169,7.39,0,1440,Shawarma Dark Meat Chicken & Turmeric Rice Bowls|Crispy Parmesan Chicken & Bacon Linguine
+170,7.4,480,720,"Sirloin Steak Salad & Red Pepper Dressing|Walnut Pesto Scallops & Purple Sweet Potato Puree|Beef, Sweet Potato & Pepper Quesadillas|Dijon Dill Chicken|BBQ Cheddar Burgers with Chipotle Mayo"
+171,9.83,720,960,Crispy Chicken & Bacon Alfredo|Lemon Herb Chicken & Artichoke-Celery Salad
+172,4.36,480,720,Creamy Dill Ranch Steak|Rainbow Trout Agnolotti|Smoky Mustard Chicken & Roasted Potatoes|Organic Chicken & Spinach Caprese Salad|Silky Sicilian Penne with Chicken Sausage|BBQ Pineapple Flatbreads
+173,5.24,480,720,Curried Chicken & Roasted Sweet Potato Jumble|Hawaiian-Style Coconut Tempura Shrimp
+174,3.01,480,720,Sweet Soy Salmon & Chili Roasted Green Bean Bowls|Coconut-Crusted Tilapia Sandwiches
+175,8.0,0,1440,Harvest Kale Salad with Bacon|Red Curry Lo Mein Stir-Fry & Candied Peanuts|Crispy Tofu Sesame Lo Mein|Silky Sicilian Penne with Chicken|Creamy Dill Sirloin Steak
+176,4.59,480,720,Sweet Potato & Bacon Quesadillas|Peachy Gochujang Pork Wraps|Seared Salmon & Lemon-Dijon Sauce
+177,8.23,720,960,Smoky Mustard Chicken & Roasted Potatoes
+178,6.95,720,960,Air Fryer Swicy Cajun Chicken Sandwiches|Beef Flautas Supreme
+179,2.75,720,960,Chicken & Edamame Stir-Fry|Steak Salad & Tangy Red Pepper Vinaigrette
+180,3.3,960,1200,Smoky Mustard Pork Chops & Roasted Potatoes|Szechuan-Glazed Rib-Eye & Jasmine Rice|Sweet & Smoky Pork Filet|Savory Mushroom & Spinach Ramen
+181,2.48,720,960,Smoky Mustard Chicken & Roasted Potatoes|Smoky Mustard Steak & Roasted Potatoes
+182,7.6,720,960,Firecracker Meatballs|Sweet & Smoky Ranch Steak
+183,3.36,720,960,Pan-Seared Sirloin Steak & Rosemary Potatoes|Gouda-Stuffed Pork Meatloaves
+184,2.59,0,1440,Fried Chicken BLT Sandwiches|Smoky Mustard Chicken & Roasted Potatoes|Jalapeño Popper Grilled Cheese with Bacon Jam
+185,5.5,720,960,Sweet & Smoky Chicken|BBQ Flatbreads & Chicken Sausage|Crispy Chicken & Bacon Alfredo
+186,7.09,480,720,Pub-Style Turkey Shepherd's Pie|Dijon Dill Chicken|Onion Crunch Chicken
+187,7.26,960,1200,Seared Salmon & Kale Salad with Mango|Crispy Organic Chicken & Bacon Alfredo|Sweet & Smoky Chicken|Pepita-Crusted Salmon|Mushroom & Spinach Ramen with Turkey|Pear & Walnut-Stuffed Chicken
+188,4.52,480,720,Seared Salmon & Kale Salad with Mango|Zucchini & Beef Pomodoro Penne Bake|Coconut-Crusted Tilapia Sandwiches|One-Pan Cheesy Beef Tortilla Melts|Southwest Chicken Tacos|Prep & Bake Cheesy Tomato Ravioli|Sesame Kimchi Fried Rice
+189,7.45,480,720,Curry Chicken Banh Mi|Argentinian Bavette Steak|Crispy Korean-Style BBQ Mushroom Sandwiches
+190,2.83,0,1440,Seared Salmon & Kale Salad with Mango|Creamy Lobster Pot Pie|Chicken & Edamame Stir-Fry|Crispy Kickin' Cayenne Chicken Cutlets|Silky Sicilian Penne|Pepita-Crusted Salmon|Smoky Mustard Steak & Roasted Potatoes|Steak with Peppercorn Sauce & Brussels|Prep & Bake Cheesy Tomato Ravioli|Cheesy Prosciutto Chicken Rollatini
+191,5.92,480,720,Swicy Poke-Inspired Rainbow Trout Bowls|Chicken & Greek Salad Pita Pockets|Chicken Sausage Pomodoro Penne Bake|Sweet & Smoky Pork Filet
+192,2.09,720,960,Shawarma Turkey & Turmeric Rice Bowls|Fried Chicken BLT Sandwiches|Pear & Walnut-Stuffed Chicken|Shawarma-Spiced Chicken & Farro Bowls
+193,5.56,720,960,One-Pan French Onion & Steak Orzotto|One-Pot Loaded Three-Bean Chicken Chili
+194,6.89,0,1440,"Turkey, Sweet Potato & Pepper Quesadillas|Walnut Pesto Scallops & Purple Sweet Potato Puree|Spicy Peruvian Organic Chicken"
+195,8.09,720,960,Onion Crunch Organic Chicken|Prep & Bake Dijon Pecan Organic Chicken|Argentinian Bavette Steak
+196,2.79,0,1440,Spicy Peruvian Organic Chicken
+197,7.82,720,960,Rainbow Trout Agnolotti|Crispy Organic Chicken & Bacon Alfredo|Chicken Chimichurri Grain Bowls
+198,4.99,480,720,Argentinian Chicken|Creamy Dill Organic Chicken|Sweet Potato & Bacon Quesadillas|Chicken Sausage Pomodoro Penne Bake
+199,6.86,480,720,Organic Chicken Milanese & Pesto Penne|Pan-Seared Chicken & Rosemary Potatoes|Zesty Lemon-Parsley Trout
+200,10.0,0,1440,Palermo Prosciutto & Chicken Fusilli|Silky Sicilian Penne with Chicken|Ponzu-Glazed Trout & Broccoli Tempura|Organic Chicken Chimichurri Grain Bowls
