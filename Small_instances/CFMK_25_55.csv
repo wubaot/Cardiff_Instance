@@ -1,0 +1,27 @@
+﻿customer_id,service_time,window_start,window_end,recipes
+0,0.0,0,1440,DEPOT
+1,2.98,0,1440,Pub-Style Shepherd's Pie|German Ranch Steak with Dijon Sauce
+2,9.1,0,1440,Fried Chicken BLT Sandwiches|Jalapeño Popper Grilled Cheese with Bacon Jam|Soy-Ginger Turkey Meatball Rice Bowls
+3,9.47,960,1200,Fried Chicken BLT Sandwiches|Soy-Ginger Beef Meatball Rice Bowls
+4,4.08,720,960,Shawarma-Spiced Beef & Rice Bowls|Southwest Bavette Steak Fajita Tacos
+5,4.74,960,1200,Crispy Parmesan Chicken & Bacon Linguine
+6,3.45,480,720,Cheesy Southwest Chicken & Kale Rice|Super-Quick Chicken Spring Rolls & Mediterranean Salad
+7,9.2,960,1200,Southwest Shrimp Tacos|Greek Goddess Shrimp & Bulgur Bowls|BBQ Cheddar Burgers with Chipotle Mayo
+8,7.44,480,720,Mexican-Spiced Salmon & Street Corn Rice Bowls|Cheesy Bacon Jam-Stuffed Organic Chicken|Beef Flautas Supreme
+9,7.44,480,720,Prep & Bake Dijon Pecan Organic Chicken
+10,5.73,720,960,Coconut-Crusted Tilapia Sandwiches
+11,9.31,960,1200,Mexican-Spiced Chicken & Street Corn Rice Bowls|Silky Sicilian Penne & Sirloin Steak|Ponzu-Glazed Trout & Broccoli Tempura|Organic Chicken & Creamy Lemon Zucchini Orzo
+12,2.96,0,1440,Crispy Parmesan Chicken & Bacon Linguine|Cheesy Bacon Jam-Stuffed Chicken|Harvest Kale Salad with Shrimp|Pepita-Crusted Salmon
+13,5.6,0,1440,One-Pan Cantina Shrimp Fajitas
+14,3.8,720,960,BBQ Pineapple & Bacon Flatbreads
+15,8.05,480,720,Hainanese-Style Roasted Chicken & Rice|Mexican-Spiced Shrimp & Street Corn Rice Bowls
+16,8.03,720,960,Firehouse Cheeseburgers
+17,7.1,480,720,BBQ Pineapple & Chicken Flatbreads
+18,5.59,0,1440,Szechuan-Glazed Rib-Eye & Jasmine Rice
+19,3.49,0,1440,Butternut Agnolotti in Brown Butter & Parmesan|Crispy Chicken & Bacon Alfredo
+20,5.5,480,720,"Warm Lentil, Carrot & Feta Salad|Ponzu-Glazed Trout & Broccoli Tempura"
+21,8.07,960,1200,Shawarma Turkey & Turmeric Rice Bowls|Pesto Shrimp Salad Lettuce Wraps|Mushroom & Spinach Ramen with Chicken|Crispy Organic Chicken & Bacon Alfredo|Sheet Pan Crunchy Organic Chicken
+22,8.18,960,1200,Silky Sicilian Penne with Shrimp|Thyme-Crusted Tilapia & Crème Fraîche Pan Sauce|Chicken Milanese & Creamy Pesto Fusilli
+23,9.13,720,960,Zucchini Pomodoro Fusilli Bake|Savory Paprika Tilapia with Rice & Beans
+24,3.5,720,960,Smashed Black Bean & Chicken Tostadas|Soy-Ginger Turkey Meatball Rice Bowls|Zesty Lemon-Parsley Trout|Steak Agnolotti in Brown Butter Sauce
+25,9.78,480,720,Mexican-Spiced Steak & Street Corn Rice Bowls|Crispy Kickin' Cayenne Chicken Cutlets

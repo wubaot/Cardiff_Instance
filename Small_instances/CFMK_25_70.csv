@@ -1,0 +1,27 @@
+﻿customer_id,service_time,window_start,window_end,recipes
+0,0.0,0,1440,DEPOT
+1,9.76,960,1200,Chicken Milanese & Creamy Pesto Fusilli|Sesame Kimchi Fried Rice
+2,8.28,720,960,Organic Chicken & Creamy Lemon Zucchini Orzo|Jalapeño Popper Grilled Cheese with Bacon Jam|Melty Double Red Pepper & Bacon Panini
+3,9.47,0,1440,Fried Chicken BLT Sandwiches|Soy-Ginger Beef Meatball Rice Bowls|Shrimp & Greek Salad Pita Pockets
+4,4.08,960,1200,Shawarma-Spiced Beef & Rice Bowls|Southwest Bavette Steak Fajita Tacos
+5,4.74,480,720,Crispy Parmesan Chicken & Bacon Linguine|Prep & Bake Dijon Pecan Organic Chicken
+6,3.45,960,1200,Cheesy Southwest Chicken & Kale Rice|Super-Quick Chicken Spring Rolls & Mediterranean Salad
+7,9.2,0,1440,Southwest Shrimp Tacos|Greek Goddess Shrimp & Bulgur Bowls|BBQ Cheddar Burgers with Chipotle Mayo|Harvest Kale & Roasted Brussels Salad
+8,7.44,480,720,Mexican-Spiced Salmon & Street Corn Rice Bowls|Cheesy Bacon Jam-Stuffed Organic Chicken|Beef Flautas Supreme
+9,7.44,720,960,Prep & Bake Dijon Pecan Organic Chicken
+10,5.73,960,1200,Coconut-Crusted Tilapia Sandwiches|Smoky Mustard Steak & Roasted Potatoes
+11,9.31,960,1200,Mexican-Spiced Chicken & Street Corn Rice Bowls|Silky Sicilian Penne & Sirloin Steak|Ponzu-Glazed Trout & Broccoli Tempura|Organic Chicken & Creamy Lemon Zucchini Orzo
+12,2.96,960,1200,Crispy Parmesan Chicken & Bacon Linguine|Cheesy Bacon Jam-Stuffed Chicken|Harvest Kale Salad with Shrimp|Pepita-Crusted Salmon|Creamy Lobster Pot Pie
+13,5.6,0,1440,One-Pan Cantina Shrimp Fajitas
+14,3.8,0,1440,BBQ Pineapple & Bacon Flatbreads
+15,8.05,480,720,Hainanese-Style Roasted Chicken & Rice|Mexican-Spiced Shrimp & Street Corn Rice Bowls|Pear & Walnut-Stuffed Chicken|Crispy Organic Chicken & Bacon Alfredo
+16,8.03,720,960,Firehouse Cheeseburgers|One-Pot Loaded Three-Bean Chicken Chili
+17,7.1,480,720,BBQ Pineapple & Chicken Flatbreads|Fig & Bacon Chicken Lettuce Wraps
+18,5.59,480,720,Szechuan-Glazed Rib-Eye & Jasmine Rice
+19,3.49,720,960,Butternut Agnolotti in Brown Butter & Parmesan|Crispy Chicken & Bacon Alfredo|Silky Sicilian Penne with Shrimp|Creamy Dill Ranch Steak
+20,5.5,0,1440,"Warm Lentil, Carrot & Feta Salad|Ponzu-Glazed Trout & Broccoli Tempura|Chicken, Sweet Potato & Pepper Quesadillas"
+21,8.07,960,1200,Shawarma Turkey & Turmeric Rice Bowls|Pesto Shrimp Salad Lettuce Wraps|Mushroom & Spinach Ramen with Chicken|Crispy Organic Chicken & Bacon Alfredo|Sheet Pan Crunchy Organic Chicken|Cheesy Buffalo Chicken & Mashed Potato Bake
+22,8.18,480,720,Silky Sicilian Penne with Shrimp|Thyme-Crusted Tilapia & Crème Fraîche Pan Sauce|Chicken Milanese & Creamy Pesto Fusilli
+23,9.13,720,960,Zucchini Pomodoro Fusilli Bake|Savory Paprika Tilapia with Rice & Beans|Cheesy Buffalo Chicken Flatbreads
+24,3.5,720,960,Smashed Black Bean & Chicken Tostadas|Soy-Ginger Turkey Meatball Rice Bowls|Zesty Lemon-Parsley Trout|Steak Agnolotti in Brown Butter Sauce
+25,9.78,0,1440,Mexican-Spiced Steak & Street Corn Rice Bowls|Crispy Kickin' Cayenne Chicken Cutlets|One-Pan Cheesy Beef Tortilla Melts

@@ -1,0 +1,27 @@
+﻿customer_id,service_time,window_start,window_end,recipes
+0,0.0,0,1440,DEPOT
+1,9.59,960,1200,Chicken Milanese & Creamy Pesto Fusilli
+2,3.4,0,1440,Figgy Balsamic Steak|Jalapeño Popper Grilled Cheese with Bacon Jam
+3,2.96,0,1440,Smoky Chipotle Turkey Burrito Bowls|Figgy Balsamic Chicken
+4,7.57,960,1200,Creamy Chicken Pot Pie|Curried Chicken & Roasted Sweet Potato Jumble
+5,7.5,480,720,Low-Lift Romesco Chicken & Garlic Herb Orzo
+6,7.78,480,720,Organic Chicken & Creamy Lemon Zucchini Orzo
+7,3.76,0,1440,Sweet Potato & Bacon Quesadillas|Argentinian Chicken|Ponzu-Glazed Trout & Broccoli Tempura
+8,5.22,720,960,BBQ Flatbreads & Chicken Sausage|Pepita-Crusted Salmon|Sweet & Tangy Tempura Chicken Sandos
+9,9.79,480,720,Lemon Herb Salmon & Couscous
+10,9.69,0,1440,Firehouse Cheeseburgers
+11,7.19,480,720,Figgy Balsamic Bavette Steak|Cheesy Buffalo Chicken & Mashed Potato Bake|Rainbow Trout Agnolotti|Harvest Kale Salad with Bacon
+12,5.72,960,1200,Onion Crunch Organic Chicken
+13,8.88,0,1440,Shawarma Beef & Turmeric Rice Bowls
+14,7.15,960,1200,Pear & Walnut-Stuffed Chicken
+15,5.29,720,960,Cheesy Buffalo Chicken Flatbreads|Hainanese-Style Roasted Chicken & Rice
+16,5.3,720,960,Crispy Korean-Style BBQ Mushroom Sandwiches
+17,8.0,720,960,Figgy Balsamic Chicken
+18,5.53,720,960,Sweet Potato & Bacon Quesadillas
+19,7.63,480,720,Mexican-Spiced Chicken & Street Corn Rice Bowls|Zucchini & Turkey Pomodoro Penne Bake
+20,2.61,720,960,Sheet Pan Crunchy Organic Chicken|Pepita-Crusted Salmon
+21,7.3,960,1200,Smoky Mustard Chicken & Roasted Potatoes|Lemon Herb Organic Chicken & Couscous|Sweet Potato & Pepper Quesadillas|Shawarma Beef & Turmeric Rice Bowls
+22,6.83,480,720,Spicy Peruvian Bavette Steak|Sweet Soy Salmon & Chili Roasted Green Bean Bowls
+23,6.43,0,1440,Sweet Potato & Pepper Quesadillas|Air Fryer Cajun Chicken & Bacon Sandos
+24,6.46,960,1200,Seared Salmon & Tomato-Dill Relish|Chicken with Cherry Pan Sauce|Ponzu-Glazed Trout & Broccoli Tempura
+25,3.73,0,1440,Szechuan-Glazed Chicken & Jasmine Rice
